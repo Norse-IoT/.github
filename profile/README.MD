@@ -3,7 +3,7 @@
     
   </a>
   <p align="center">
-   <img src="banner.jpg" alt="Logo">
+   <img src="/profile/banner.jpg" alt="Logo">
   </p>
   <p align="center">
     <br />

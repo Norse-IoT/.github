@@ -7,7 +7,7 @@
   </p>
   <p align="center">
     <br />
-    <a href="https://iot.informatics.plus"><strong>https://iot.informatics.plus</strong></a>
+    <a href="https://norseiot.club"><strong>https://norseiot.club</strong></a>
     <br />
   </p>
 </p>
